@@ -1,0 +1,5 @@
+name: ToolEnchants
+version: 1.0.0
+main: dev.events.toolenchants.ToolEnchants
+api-version: '1.21'
+description: Every crafted tool comes with Efficiency II and Sharpness I.
